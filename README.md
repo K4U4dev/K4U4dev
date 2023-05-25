@@ -18,7 +18,6 @@
 ![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=2387FF&labelColor=0D1117)
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=2387FF&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=2387FF&labelColor=0D1117)
-![C#](https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=2387FF&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=2387FF&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=2387FF&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=2387FF&labelColor=0D1117)
