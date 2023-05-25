@@ -28,9 +28,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=2387FF&labelColor=0D1117)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=2387FF&labelColor=0D1117)
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=2387FF&labelColor=0D1117)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=2387FF&labelColor=0D1117)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=2387FF&labelColor=0D1117)
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=2387FF&labelColor=0D1117)
 
 
