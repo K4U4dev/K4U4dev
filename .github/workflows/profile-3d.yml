@@ -11,22 +11,10 @@ jobs:
     name: Gerar imagem 3D de contribuição
     steps:
       - uses: actions/checkout@v2
-      
-      # Criar arquivo de configuração
-      - name: Create settings file
-        run: |
-          echo '{
-            "background_color": "transparent"
-          }' > settings.json
-      
-      # Executar a ação com o arquivo de configuração
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: settings.json
-      
-      # Commit e push das alterações
       - name: Commit & Push
         run: |
           git config user.name github-actions
