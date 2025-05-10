@@ -38,4 +38,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
 
+## Contributions in 3D:
+<div align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-green.svg"/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2387FF&height=120&section=footer"/>
