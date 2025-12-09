@@ -1,20 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2387ff&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=2387FF&size=35&duration=3500&pause=1&center=true&vCenter=true&repeat=false&width=1000&lines=K4U4dev)](https://git.io/typing-svg)
-
-
 ## About me:
 #### __Information systems__ academic;
 #### Fascinated by __technology__ and __development__;
 #### Curious about __embedded systems__ and __information security__;
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=K4U4dev&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=2387ff&icon_color=2387ff&text_color=2387ff" alt="K4U4dev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4U4dev&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide"/>
-</div>
-
 ## Main Languages:
+![C#](https://img.shields.io/badge/CSharp-0D1117?style=for-the-badge&logo=CSharp%2B%2B&logoColor=2387FF&labelColor=0D1117)
+![Flutter](https://img.shields.io/badge/flutter-0D1117?style=for-the-badge&logo=flutter%2B%2B&logoColor=2387FF&labelColor=0D1117)
 ![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=2387FF&labelColor=0D1117)
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=2387FF&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=2387FF&labelColor=0D1117)
@@ -37,10 +29,3 @@
 ## Systems:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
-
-## Contributions:
-<div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-green.svg"/>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2387FF&height=120&section=footer"/>
